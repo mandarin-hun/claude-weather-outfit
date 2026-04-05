@@ -1,0 +1,1 @@
+export { convertToGrid } from './convertToGrid';
